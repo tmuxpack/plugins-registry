@@ -23,3 +23,36 @@
   author: artischocki
   added_date: '2026-04-11'
   stars: 11
+- repo: Ataraxy-Labs/opensessions
+  description: tmux sidebar for coding agents Amp, Claude Code, Codex, and OpenCode with per-thread markers
+  author: Ataraxy-Labs
+- repo: gavraz/recon
+  description: tmux-native dashboard for managing Claude Code agents
+  author: gavraz
+- repo: craigsc/cmux
+  description: tmux orchestrator for Claude Code with multi-agent management
+  author: craigsc
+- repo: Dicklesworthstone/ntm
+  description: Named tmux manager that spawns and coordinates multiple AI agents across panes
+  author: Dicklesworthstone
+- repo: smtg-ai/claude-squad
+  description: Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp in tmux
+  author: smtg-ai
+- repo: standardagents/dmux
+  description: Dev agent multiplexer for git worktrees and coding agents in tmux
+  author: standardagents
+- repo: fynnfluegge/agtx
+  description: Blackboard TUI for monitoring coding agents across tmux sessions
+  author: fynnfluegge
+- repo: asheshgoplani/agent-deck
+  description: Terminal session manager TUI for AI coding agents Claude, Gemini, Codex, and OpenCode
+  author: asheshgoplani
+- repo: nickgnd/tmux-mcp
+  description: MCP server enabling AI assistants to interact with and view tmux session content
+  author: nickgnd
+- repo: rupert648/pertmux
+  description: Rust TUI linking coding agents, MRs, worktrees, and tmux panes in one dashboard
+  author: rupert648
+- repo: radoslav11/rpai
+  description: Tool to make it easier to jump between AI agents running in tmux panes
+  author: radoslav11

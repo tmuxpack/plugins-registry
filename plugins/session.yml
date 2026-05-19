@@ -93,3 +93,15 @@
   author: sarve-shreyas
   added_date: '2026-04-11'
   stars: 2
+- repo: GabrielTecuceanu/tsman
+  description: Rust tmux session manager with layout templates and TUI preview
+  author: GabrielTecuceanu
+- repo: phanorcoll/muxie
+  description: TUI session manager that defines tmux sessions, windows, and panes from YAML
+  author: phanorcoll
+- repo: zSuperx/muffin
+  description: Rust-based tmux session manager with configurable layouts
+  author: zSuperx
+- repo: twopow/tmux-schema
+  description: Bootstrap tmux sessions, windows, and panes from a YAML file
+  author: twopow

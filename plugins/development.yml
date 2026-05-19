@@ -43,3 +43,9 @@
   author: jacobhm98
   stars: 9
   added_date: '2026-03-06'
+- repo: andersonkrs/twig
+  description: Glamorous tmux session manager with git worktree support
+  author: andersonkrs
+- repo: raine/workmux
+  description: Git worktrees and tmux windows for zero-friction parallel development
+  author: raine

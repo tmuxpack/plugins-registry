@@ -183,3 +183,24 @@
   author: cookiecad
   added_date: '2026-04-11'
   stars: 5
+- repo: szymonwilczek/tmux-jot
+  description: Popup note manager with per-session sticky notes that persist between toggles
+  author: szymonwilczek
+- repo: BatsShadow/tmux-superclick
+  description: Improved mouse-driven text selection for tmux
+  author: BatsShadow
+- repo: eduwass/tmux-palette
+  description: Raycast-style fast and scriptable command palette for tmux
+  author: eduwass
+- repo: Yahddyyp/tmux-simple-renamers
+  description: Simple window and session renamer integrated with sesh and fzf
+  author: Yahddyyp
+- repo: datamadsen/nunchux
+  description: Smart tmux app launcher with fzf, justfile, and npm integration
+  author: datamadsen
+- repo: waelmahrous/wormhole
+  description: Send files between tmux panes by marking destinations as wormholes
+  author: waelmahrous
+- repo: raine/tmux-snaglord
+  description: Turn tmux scrollback into a structured, searchable list of commands and outputs
+  author: raine
