@@ -88,3 +88,7 @@
   author: nucc
   added_date: '2026-04-11'
   stars: 35
+- repo: chris-paganon/tmux-cdls
+  host: codeberg.org
+  description: displays the content of the current directory in a pane with live updates
+  author: chris-paganon
