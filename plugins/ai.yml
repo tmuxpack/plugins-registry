@@ -28,7 +28,7 @@
   author: Ataraxy-Labs
   stars: 1222
   added_date: "2026-05-19"
-- repo: snirt/tmux-agents-mon
+- repo: snirt/agenmux
   description: Monitor AI coding agents in tmux panes with sidebar and status-line views
   author: snirt
   stars: 19
