@@ -38,3 +38,7 @@
   author: vieitesss
   stars: 29
   added_date: "2026-07-24"
+- repo: cburmeister/tmux-agent-state
+  description: Agent state on your tmux window tabs. For people who already live in tmux and run coding agents in it.
+  author: cburmeister
+  added_date: "2026-09-02"
