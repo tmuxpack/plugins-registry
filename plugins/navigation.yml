@@ -1,12 +1,12 @@
 - repo: tmux-plugins/tmux-pain-control
   description: Standard pane key-bindings for tmux
   author: tmux-plugins
-  stars: 866
+  stars: 867
   added_date: '2026-02-17'
 - repo: christoomey/vim-tmux-navigator
   description: Seamless navigation between Vim and tmux
   author: christoomey
-  stars: 6283
+  stars: 6291
   added_date: '2026-02-17'
 - repo: Morantron/tmux-fingers
   description: Vimium-like copy and paste hints
@@ -16,7 +16,7 @@
 - repo: fcsonline/tmux-thumbs
   description: Fast copy and paste with Rust-powered hints
   author: fcsonline
-  stars: 1096
+  stars: 1098
   added_date: '2026-02-17'
 - repo: schasse/tmux-jump
   description: Vimium and Easymotion-like navigation
@@ -26,7 +26,7 @@
 - repo: wfxr/tmux-fzf-url
   description: Quick URL opening with fzf
   author: wfxr
-  stars: 730
+  stars: 731
   added_date: '2026-02-17'
 - repo: roosta/tmux-fuzzback
   description: Search scrollback buffer with fzf
@@ -46,7 +46,7 @@
 - repo: greymd/tmux-xpanes
   description: Terminal divider and pane utility
   author: greymd
-  stars: 2104
+  stars: 2106
   added_date: '2026-02-17'
 - repo: jaclu/tmux-mouse-swipe
   description: Switch window or session with right-click swipe
@@ -76,7 +76,7 @@
 - repo: Kristijan/flash-copy.tmux
   description: Flash.nvim-style word jumping and copying
   author: Kristijan
-  stars: 45
+  stars: 46
   added_date: '2026-02-17'
 - repo: sandudorogan/tmux-pane-tree
   description: Interactive pane tree sidebar with Vim-style navigation

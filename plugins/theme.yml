@@ -1,12 +1,12 @@
 - repo: catppuccin/tmux
   description: Soothing pastel theme for Tmux
   author: catppuccin
-  stars: 3161
+  stars: 3166
   added_date: '2026-02-17'
 - repo: dracula/tmux
   description: Dark theme for Tmux
   author: dracula
-  stars: 854
+  stars: 855
   added_date: '2026-02-17'
 - repo: nordtheme/tmux
   description: Arctic north-bluish clean color theme
@@ -16,7 +16,7 @@
 - repo: rose-pine/tmux
   description: Soho vibes aesthetic theme for Tmux
   author: rose-pine
-  stars: 277
+  stars: 278
   added_date: '2026-02-17'
 - repo: egel/tmux-gruvbox
   description: Light and dark gruvbox color scheme
@@ -36,7 +36,7 @@
 - repo: jimeh/tmux-themepack
   description: Collection of various themes for Tmux
   author: jimeh
-  stars: 1755
+  stars: 1756
   added_date: '2026-02-17'
 - repo: janoamaral/tokyo-night-tmux
   description: Tokyo Night color scheme for Tmux
@@ -46,17 +46,17 @@
 - repo: Nybkox/tmux-ukiyo
   description: Dark color scheme inspired by Hokusai artwork
   author: Nybkox
-  stars: 145
+  stars: 146
   added_date: '2026-02-17'
 - repo: seebi/tmux-colors-solarized
   description: Solarized color implementation for Tmux
   author: seebi
-  stars: 1102
+  stars: 1101
   added_date: '2026-02-17'
 - repo: 2KAbhishek/tmux2k
   description: Customizable powerline status bar framework
   author: 2KAbhishek
-  stars: 458
+  stars: 461
   added_date: '2026-02-17'
 - repo: semi710/minimal-tmux-status
   description: Minimal and clean status bar theme
@@ -66,7 +66,7 @@
 - repo: erikw/tmux-dark-notify
   description: Auto-switch dark and light mode on macOS
   author: erikw
-  stars: 98
+  stars: 99
   added_date: '2026-02-17'
 - repo: ivnvxd/tmux-snazzy
   description: Elegant theme with bright colors
@@ -91,7 +91,7 @@
 - repo: vaaleyard/tmux-dotbar
   description: Simple and minimalist dot-style status bar theme
   author: vaaleyard
-  stars: 288
+  stars: 290
   added_date: '2026-02-17'
 - repo: thekylehuang/cole-tmux
   description: Stationery-inspired minimal theme with vintage earth tones

@@ -6,7 +6,7 @@
 - repo: tmux-plugins/tmux-yank
   description: Tmux plugin for copying to system clipboard
   author: tmux-plugins
-  stars: 3102
+  stars: 3105
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-copycat
   description: Enhanced tmux search with regex support
@@ -16,7 +16,7 @@
 - repo: tmux-plugins/tmux-open
   description: Open highlighted files and URLs from copy mode
   author: tmux-plugins
-  stars: 736
+  stars: 737
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-logging
   description: Logging and screen capturing utilities
@@ -31,7 +31,7 @@
 - repo: tmux-plugins/tmux-fpp
   description: Quick opening of file paths in editor
   author: tmux-plugins
-  stars: 322
+  stars: 323
   added_date: '2026-02-17'
 - repo: laktak/extrakto
   description: Clipboard copy and fzf completions from output
@@ -66,7 +66,7 @@
 - repo: rickstaa/tmux-notify
   description: Notify when long-running processes finish
   author: rickstaa
-  stars: 274
+  stars: 275
   added_date: '2026-02-17'
 - repo: whame/tmux-modal
   description: Modal mode for executing complex commands
@@ -111,17 +111,17 @@
 - repo: sainnhe/tmux-fzf
   description: Manage tmux environment with fzf
   author: sainnhe
-  stars: 1497
+  stars: 1502
   added_date: '2026-02-17'
 - repo: alexwforsythe/tmux-which-key
   description: Customizable popup menu for keybinding discovery
   author: alexwforsythe
-  stars: 317
+  stars: 319
   added_date: '2026-02-17'
 - repo: lloydbond/tmux-floating-terminal
   description: Popup floating terminal window
   author: lloydbond
-  stars: 20
+  stars: 21
   added_date: '2026-02-17'
 - repo: thepante/tmux-git-autofetch
   description: Automatically fetch git repos in current session
