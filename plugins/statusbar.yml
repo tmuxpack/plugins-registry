@@ -21,17 +21,17 @@
 - repo: thewtex/tmux-mem-cpu-load
   description: CPU, RAM, and system load monitor
   author: thewtex
-  stars: 1128
+  stars: 1130
   added_date: '2026-02-17'
 - repo: arl/gitmux
   description: Show Git status in the status bar
   author: arl
-  stars: 795
+  stars: 794
   added_date: '2026-02-17'
 - repo: MunifTanjim/tmux-mode-indicator
   description: Display current active Tmux mode
   author: MunifTanjim
-  stars: 199
+  stars: 201
   added_date: '2026-02-17'
 - repo: ofirgall/tmux-window-name
   description: Smart automatic window naming
@@ -41,12 +41,12 @@
 - repo: ilya-manin/tmux-network-bandwidth
   description: Network bandwidth usage display
   author: ilya-manin
-  stars: 85
+  stars: 86
   added_date: '2026-02-17'
 - repo: olimorris/tmux-pomodoro-plus
   description: Pomodoro timer integration
   author: olimorris
-  stars: 473
+  stars: 471
   added_date: '2026-02-17'
 - repo: charlietag/tmux-split-statusbar
   description: Split status bar into two rows
@@ -76,7 +76,7 @@
 - repo: erikw/tmux-powerline
   description: Dynamic powerline-style status bar segments
   author: erikw
-  stars: 3836
+  stars: 3840
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-net-speed
   description: Upload and download speed monitor
@@ -111,7 +111,7 @@
 - repo: tmux-plugins/tmux-urlview
   description: Quick opening of URLs from terminal
   author: tmux-plugins
-  stars: 292
+  stars: 291
   added_date: '2026-02-17'
 - repo: samoshkin/tmux-plugin-sysstat
   description: CPU, memory, swap, load average, and net I/O metrics
@@ -142,7 +142,7 @@
   description: Run internet speed tests and display results in the status bar
   author: YousefHadder
   added_date: '2026-04-11'
-  stars: 5
+  stars: 6
 - repo: odtgit/tmux-mpris
   description: MPRIS now-playing media widget using playerctl
   author: odtgit
