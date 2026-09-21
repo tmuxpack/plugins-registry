@@ -1,22 +1,22 @@
 - repo: tmux-plugins/tmux-resurrect
   description: Persists tmux environment across system restarts
   author: tmux-plugins
-  stars: 13051
+  stars: 13068
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-continuum
   description: Continuous saving of tmux environment
   author: tmux-plugins
-  stars: 4072
+  stars: 4077
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-sessionist
   description: Lightweight session manipulation utilities
   author: tmux-plugins
-  stars: 472
+  stars: 471
   added_date: '2026-02-17'
 - repo: 27medkamal/tmux-session-wizard
   description: Session creation with fzf and zoxide
   author: 27medkamal
-  stars: 260
+  stars: 261
   added_date: '2026-02-17'
 - repo: cutbypham/tmux-fzf-session-switch
   description: Easy session switching with fzf
@@ -26,17 +26,17 @@
 - repo: joshmedeski/sesh
   description: Smart terminal session manager
   author: joshmedeski
-  stars: 2821
+  stars: 2831
   added_date: '2026-02-17'
 - repo: omerxx/tmux-sessionx
   description: Session manager with zoxide and fuzzy finding
   author: omerxx
-  stars: 1378
+  stars: 1380
   added_date: '2026-02-17'
 - repo: MunifTanjim/tmux-suspend
   description: Suspend local session for nested remote sessions
   author: MunifTanjim
-  stars: 179
+  stars: 180
   added_date: '2026-02-17'
 - repo: 2KAbhishek/tmux-tea
   description: Session manager with previews and tmuxinator support
@@ -46,7 +46,7 @@
 - repo: spywhere/tmux-named-snapshot
   description: Named snapshot support for tmux-resurrect
   author: spywhere
-  stars: 45
+  stars: 46
   added_date: '2026-02-17'
 - repo: niqodea/tmux-matryoshka
   description: Support for arbitrary levels of nested sessions
