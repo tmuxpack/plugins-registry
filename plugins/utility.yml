@@ -6,7 +6,7 @@
 - repo: tmux-plugins/tmux-yank
   description: Tmux plugin for copying to system clipboard
   author: tmux-plugins
-  stars: 3111
+  stars: 3114
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-copycat
   description: Enhanced tmux search with regex support
@@ -21,7 +21,7 @@
 - repo: tmux-plugins/tmux-logging
   description: Logging and screen capturing utilities
   author: tmux-plugins
-  stars: 1258
+  stars: 1259
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-sidebar
   description: Directory tree sidebar for navigation
@@ -51,7 +51,7 @@
 - repo: jaclu/tmux-menus
   description: Popup menus for environment management
   author: jaclu
-  stars: 541
+  stars: 542
   added_date: '2026-02-17'
 - repo: jabirali/tmux-tilish
   description: Tiling window manager features inspired by i3
@@ -66,7 +66,7 @@
 - repo: rickstaa/tmux-notify
   description: Notify when long-running processes finish
   author: rickstaa
-  stars: 278
+  stars: 279
   added_date: '2026-02-17'
 - repo: whame/tmux-modal
   description: Modal mode for executing complex commands
@@ -96,7 +96,7 @@
 - repo: azorng/tmux-smooth-scroll
   description: Smooth scrolling in copy mode
   author: azorng
-  stars: 79
+  stars: 80
   added_date: '2026-02-17'
 - repo: graemedavidson/tmux-pane-focus
   description: Auto-resizing focused pane splits
@@ -151,7 +151,7 @@
 - repo: laktak/tome
   description: Interactive script playbooks for the terminal
   author: laktak
-  stars: 176
+  stars: 177
   added_date: '2026-02-17'
 - repo: loichyan/tmux-toggle-popup
   description: Create toggleable popup windows

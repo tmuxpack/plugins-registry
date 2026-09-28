@@ -1,17 +1,17 @@
 - repo: catppuccin/tmux
   description: Soothing pastel theme for Tmux
   author: catppuccin
-  stars: 3174
+  stars: 3173
   added_date: '2026-02-17'
 - repo: dracula/tmux
   description: Dark theme for Tmux
   author: dracula
-  stars: 856
+  stars: 857
   added_date: '2026-02-17'
 - repo: nordtheme/tmux
   description: Arctic north-bluish clean color theme
   author: nordtheme
-  stars: 1199
+  stars: 1200
   added_date: '2026-02-17'
 - repo: rose-pine/tmux
   description: Soho vibes aesthetic theme for Tmux
@@ -21,7 +21,7 @@
 - repo: egel/tmux-gruvbox
   description: Light and dark gruvbox color scheme
   author: egel
-  stars: 699
+  stars: 697
   added_date: '2026-02-17'
 - repo: o0th/tmux-nova
   description: Fully customizable theme system for Tmux
@@ -31,7 +31,7 @@
 - repo: wfxr/tmux-power
   description: Eight powerline-style theme variants
   author: wfxr
-  stars: 702
+  stars: 703
   added_date: '2026-02-17'
 - repo: jimeh/tmux-themepack
   description: Collection of various themes for Tmux
@@ -46,22 +46,22 @@
 - repo: Nybkox/tmux-ukiyo
   description: Dark color scheme inspired by Hokusai artwork
   author: Nybkox
-  stars: 146
+  stars: 145
   added_date: '2026-02-17'
 - repo: seebi/tmux-colors-solarized
   description: Solarized color implementation for Tmux
   author: seebi
-  stars: 1102
+  stars: 1101
   added_date: '2026-02-17'
 - repo: 2KAbhishek/tmux2k
   description: Customizable powerline status bar framework
   author: 2KAbhishek
-  stars: 468
+  stars: 469
   added_date: '2026-02-17'
 - repo: semi710/minimal-tmux-status
   description: Minimal and clean status bar theme
   author: semi710
-  stars: 275
+  stars: 274
   added_date: '2026-02-17'
 - repo: erikw/tmux-dark-notify
   description: Auto-switch dark and light mode on macOS
@@ -86,12 +86,12 @@
 - repo: imomaliev/tmux-peacock
   description: Per-session color based on session name
   author: imomaliev
-  stars: 39
+  stars: 40
   added_date: '2026-02-17'
 - repo: vaaleyard/tmux-dotbar
   description: Simple and minimalist dot-style status bar theme
   author: vaaleyard
-  stars: 291
+  stars: 292
   added_date: '2026-02-17'
 - repo: thekylehuang/cole-tmux
   description: Stationery-inspired minimal theme with vintage earth tones

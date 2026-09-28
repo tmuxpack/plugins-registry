@@ -1,22 +1,22 @@
 - repo: tmux-plugins/tmux-pain-control
   description: Standard pane key-bindings for tmux
   author: tmux-plugins
-  stars: 869
+  stars: 871
   added_date: '2026-02-17'
 - repo: christoomey/vim-tmux-navigator
   description: Seamless navigation between Vim and tmux
   author: christoomey
-  stars: 6291
+  stars: 6296
   added_date: '2026-02-17'
 - repo: Morantron/tmux-fingers
   description: Vimium-like copy and paste hints
   author: Morantron
-  stars: 1472
+  stars: 1473
   added_date: '2026-02-17'
 - repo: fcsonline/tmux-thumbs
   description: Fast copy and paste with Rust-powered hints
   author: fcsonline
-  stars: 1099
+  stars: 1100
   added_date: '2026-02-17'
 - repo: schasse/tmux-jump
   description: Vimium and Easymotion-like navigation
@@ -82,7 +82,7 @@
   description: Interactive pane tree sidebar with Vim-style navigation
   author: sandudorogan
   added_date: '2026-04-11'
-  stars: 61
+  stars: 63
 - repo: nucc/tmux-which-key
   description: LazyVim-style which-key popup with nested groups and Nord theme
   author: nucc

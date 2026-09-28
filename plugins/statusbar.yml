@@ -6,7 +6,7 @@
 - repo: tmux-plugins/tmux-cpu
   description: CPU usage percentage display
   author: tmux-plugins
-  stars: 539
+  stars: 538
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-online-status
   description: Display online and offline status
@@ -21,12 +21,12 @@
 - repo: thewtex/tmux-mem-cpu-load
   description: CPU, RAM, and system load monitor
   author: thewtex
-  stars: 1129
+  stars: 1130
   added_date: '2026-02-17'
 - repo: arl/gitmux
   description: Show Git status in the status bar
   author: arl
-  stars: 795
+  stars: 794
   added_date: '2026-02-17'
 - repo: MunifTanjim/tmux-mode-indicator
   description: Display current active Tmux mode
@@ -36,7 +36,7 @@
 - repo: ofirgall/tmux-window-name
   description: Smart automatic window naming
   author: ofirgall
-  stars: 297
+  stars: 299
   added_date: '2026-02-17'
 - repo: ilya-manin/tmux-network-bandwidth
   description: Network bandwidth usage display
@@ -111,7 +111,7 @@
 - repo: tmux-plugins/tmux-urlview
   description: Quick opening of URLs from terminal
   author: tmux-plugins
-  stars: 291
+  stars: 292
   added_date: '2026-02-17'
 - repo: samoshkin/tmux-plugin-sysstat
   description: CPU, memory, swap, load average, and net I/O metrics
@@ -121,7 +121,7 @@
 - repo: fabioluciano/tmux-powerkit
   description: Ultimate status bar framework with many widgets
   author: fabioluciano
-  stars: 608
+  stars: 607
   added_date: '2026-02-17'
 - repo: barlevalon/tmux-nowplaying
   description: Display macOS system-wide Now Playing info
