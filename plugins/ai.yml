@@ -43,3 +43,6 @@
   author: cburmeister
   added_date: "2026-09-02"
   stars: 2
+- repo: DS-argus/agent-transcript
+  description: Read AI agent conversations in your favorite Markdown TUI, right inside tmux
+  author: DS-argus
