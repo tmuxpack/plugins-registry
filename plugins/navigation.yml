@@ -1,7 +1,7 @@
 - repo: tmux-plugins/tmux-pain-control
   description: Standard pane key-bindings for tmux
   author: tmux-plugins
-  stars: 871
+  stars: 870
   added_date: '2026-02-17'
 - repo: christoomey/vim-tmux-navigator
   description: Seamless navigation between Vim and tmux
@@ -66,12 +66,12 @@
 - repo: kristopolous/tmux-gentrify
   description: Cut and paste panes between windows
   author: kristopolous
-  stars: 17
+  stars: 16
   added_date: '2026-02-17'
 - repo: artemave/tmux_super_fingers
   description: Open file links from terminal in Vim
   author: artemave
-  stars: 107
+  stars: 108
   added_date: '2026-02-17'
 - repo: Kristijan/flash-copy.tmux
   description: Flash.nvim-style word jumping and copying

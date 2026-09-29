@@ -6,7 +6,7 @@
 - repo: tmux-plugins/tmux-yank
   description: Tmux plugin for copying to system clipboard
   author: tmux-plugins
-  stars: 3114
+  stars: 3115
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-copycat
   description: Enhanced tmux search with regex support
@@ -26,7 +26,7 @@
 - repo: tmux-plugins/tmux-sidebar
   description: Directory tree sidebar for navigation
   author: tmux-plugins
-  stars: 664
+  stars: 665
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-fpp
   description: Quick opening of file paths in editor
@@ -51,7 +51,7 @@
 - repo: jaclu/tmux-menus
   description: Popup menus for environment management
   author: jaclu
-  stars: 542
+  stars: 541
   added_date: '2026-02-17'
 - repo: jabirali/tmux-tilish
   description: Tiling window manager features inspired by i3
@@ -121,7 +121,7 @@
 - repo: lloydbond/tmux-floating-terminal
   description: Popup floating terminal window
   author: lloydbond
-  stars: 22
+  stars: 23
   added_date: '2026-02-17'
 - repo: thepante/tmux-git-autofetch
   description: Automatically fetch git repos in current session
@@ -196,7 +196,7 @@
 - repo: eduwass/tmux-palette
   description: Raycast-style fast and scriptable command palette for tmux
   author: eduwass
-  stars: 409
+  stars: 410
   added_date: "2026-05-19"
 - repo: Yahddyyp/tmux-simple-renamers
   description: Simple window and session renamer integrated with sesh and fzf

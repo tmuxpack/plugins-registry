@@ -36,7 +36,7 @@
 - repo: vieitesss/agent-radar
   description: List and switch between coding agent panes with status and completion notifications
   author: vieitesss
-  stars: 29
+  stars: 31
   added_date: "2026-07-24"
 - repo: cburmeister/tmux-agent-state
   description: Agent state on your tmux window tabs. For people who already live in tmux and run coding agents in it.
@@ -46,3 +46,5 @@
 - repo: DS-argus/agent-transcript
   description: Read AI agent conversations in your favorite Markdown TUI, right inside tmux
   author: DS-argus
+  stars: 0
+  added_date: "2026-09-29"
