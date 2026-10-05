@@ -16,7 +16,7 @@
 - repo: alexekdahl/tmux-compile
   description: Run compile commands with automatic pane
   author: alexekdahl
-  stars: 22
+  stars: 23
   added_date: '2026-02-17'
 - repo: naqerl/tmux-cargo
   description: Run Cargo commands from tmux

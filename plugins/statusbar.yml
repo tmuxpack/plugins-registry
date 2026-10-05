@@ -11,12 +11,12 @@
 - repo: tmux-plugins/tmux-online-status
   description: Display online and offline status
   author: tmux-plugins
-  stars: 185
+  stars: 184
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-prefix-highlight
   description: Highlights when prefix key is pressed
   author: tmux-plugins
-  stars: 674
+  stars: 673
   added_date: '2026-02-17'
 - repo: thewtex/tmux-mem-cpu-load
   description: CPU, RAM, and system load monitor
@@ -86,7 +86,7 @@
 - repo: jonmosco/kube-tmux
   description: Kubernetes context and namespace display
   author: jonmosco
-  stars: 387
+  stars: 386
   added_date: '2026-02-17'
 - repo: anghootys/tmux-ip-address
   description: Show public IP address in status bar
@@ -111,7 +111,7 @@
 - repo: tmux-plugins/tmux-urlview
   description: Quick opening of URLs from terminal
   author: tmux-plugins
-  stars: 292
+  stars: 291
   added_date: '2026-02-17'
 - repo: samoshkin/tmux-plugin-sysstat
   description: CPU, memory, swap, load average, and net I/O metrics
@@ -121,7 +121,7 @@
 - repo: fabioluciano/tmux-powerkit
   description: Ultimate status bar framework with many widgets
   author: fabioluciano
-  stars: 608
+  stars: 610
   added_date: '2026-02-17'
 - repo: barlevalon/tmux-nowplaying
   description: Display macOS system-wide Now Playing info

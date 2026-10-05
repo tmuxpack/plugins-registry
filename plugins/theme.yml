@@ -1,17 +1,17 @@
 - repo: catppuccin/tmux
   description: Soothing pastel theme for Tmux
   author: catppuccin
-  stars: 3181
+  stars: 3188
   added_date: '2026-02-17'
 - repo: dracula/tmux
   description: Dark theme for Tmux
   author: dracula
-  stars: 857
+  stars: 858
   added_date: '2026-02-17'
 - repo: nordtheme/tmux
   description: Arctic north-bluish clean color theme
   author: nordtheme
-  stars: 1200
+  stars: 1201
   added_date: '2026-02-17'
 - repo: rose-pine/tmux
   description: Soho vibes aesthetic theme for Tmux
@@ -26,17 +26,17 @@
 - repo: o0th/tmux-nova
   description: Fully customizable theme system for Tmux
   author: o0th
-  stars: 213
+  stars: 214
   added_date: '2026-02-17'
 - repo: wfxr/tmux-power
   description: Eight powerline-style theme variants
   author: wfxr
-  stars: 702
+  stars: 701
   added_date: '2026-02-17'
 - repo: jimeh/tmux-themepack
   description: Collection of various themes for Tmux
   author: jimeh
-  stars: 1756
+  stars: 1755
   added_date: '2026-02-17'
 - repo: janoamaral/tokyo-night-tmux
   description: Tokyo Night color scheme for Tmux
@@ -56,7 +56,7 @@
 - repo: 2KAbhishek/tmux2k
   description: Customizable powerline status bar framework
   author: 2KAbhishek
-  stars: 470
+  stars: 471
   added_date: '2026-02-17'
 - repo: semi710/minimal-tmux-status
   description: Minimal and clean status bar theme
@@ -66,7 +66,7 @@
 - repo: erikw/tmux-dark-notify
   description: Auto-switch dark and light mode on macOS
   author: erikw
-  stars: 99
+  stars: 100
   added_date: '2026-02-17'
 - repo: ivnvxd/tmux-snazzy
   description: Elegant theme with bright colors
@@ -101,12 +101,12 @@
 - repo: tarquibrian/vanzi
   description: Clean and minimalist tmux theme
   author: tarquibrian
-  stars: 8
+  stars: 9
   added_date: '2026-02-19'
 - repo: binoymanoj/tmux-minimal-theme
   description: Clean minimal customizable theme with built-in system monitoring
   author: binoymanoj
-  stars: 50
+  stars: 51
   added_date: '2026-02-19'
 - repo: pavlemmm/tmux-minithemes
   description: Collection of beautiful minimal themes with multiple color schemes

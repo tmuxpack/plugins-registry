@@ -6,22 +6,22 @@
 - repo: christoomey/vim-tmux-navigator
   description: Seamless navigation between Vim and tmux
   author: christoomey
-  stars: 6296
+  stars: 6302
   added_date: '2026-02-17'
 - repo: Morantron/tmux-fingers
   description: Vimium-like copy and paste hints
   author: Morantron
-  stars: 1473
+  stars: 1476
   added_date: '2026-02-17'
 - repo: fcsonline/tmux-thumbs
   description: Fast copy and paste with Rust-powered hints
   author: fcsonline
-  stars: 1100
+  stars: 1102
   added_date: '2026-02-17'
 - repo: schasse/tmux-jump
   description: Vimium and Easymotion-like navigation
   author: schasse
-  stars: 480
+  stars: 482
   added_date: '2026-02-17'
 - repo: wfxr/tmux-fzf-url
   description: Quick URL opening with fzf
@@ -31,7 +31,7 @@
 - repo: roosta/tmux-fuzzback
   description: Search scrollback buffer with fzf
   author: roosta
-  stars: 188
+  stars: 190
   added_date: '2026-02-17'
 - repo: IngoMeyer441/tmux-easy-motion
   description: Vim-easymotion-like pane navigation
@@ -41,12 +41,12 @@
 - repo: jaclu/tmux-power-zoom
   description: Zoom pane to a separate window
   author: jaclu
-  stars: 63
+  stars: 64
   added_date: '2026-02-17'
 - repo: greymd/tmux-xpanes
   description: Terminal divider and pane utility
   author: greymd
-  stars: 2109
+  stars: 2111
   added_date: '2026-02-17'
 - repo: jaclu/tmux-mouse-swipe
   description: Switch window or session with right-click swipe
@@ -56,7 +56,7 @@
 - repo: abhinav/tmux-fastcopy
   description: Easymotion-style text copying
   author: abhinav
-  stars: 98
+  stars: 99
   added_date: '2026-02-17'
 - repo: alberti42/tmux-fzf-links
   description: Open any type of link with fzf
@@ -82,7 +82,7 @@
   description: Interactive pane tree sidebar with Vim-style navigation
   author: sandudorogan
   added_date: '2026-04-11'
-  stars: 63
+  stars: 64
 - repo: nucc/tmux-which-key
   description: LazyVim-style which-key popup with nested groups and Nord theme
   author: nucc
