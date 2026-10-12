@@ -1,12 +1,12 @@
 - repo: tmux-plugins/tmux-sensible
   description: A set of tmux options that should be acceptable to everyone
   author: tmux-plugins
-  stars: 2230
+  stars: 2232
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-yank
   description: Tmux plugin for copying to system clipboard
   author: tmux-plugins
-  stars: 3117
+  stars: 3119
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-copycat
   description: Enhanced tmux search with regex support
@@ -16,12 +16,12 @@
 - repo: tmux-plugins/tmux-open
   description: Open highlighted files and URLs from copy mode
   author: tmux-plugins
-  stars: 741
+  stars: 742
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-logging
   description: Logging and screen capturing utilities
   author: tmux-plugins
-  stars: 1259
+  stars: 1260
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-sidebar
   description: Directory tree sidebar for navigation
@@ -36,7 +36,7 @@
 - repo: laktak/extrakto
   description: Clipboard copy and fzf completions from output
   author: laktak
-  stars: 1144
+  stars: 1148
   added_date: '2026-02-17'
 - repo: NHDaly/tmux-better-mouse-mode
   description: Better mouse scroll and click configuration
@@ -66,7 +66,7 @@
 - repo: rickstaa/tmux-notify
   description: Notify when long-running processes finish
   author: rickstaa
-  stars: 280
+  stars: 281
   added_date: '2026-02-17'
 - repo: whame/tmux-modal
   description: Modal mode for executing complex commands
@@ -81,7 +81,7 @@
 - repo: lost-melody/tmux-command-palette
   description: Keybinding search palette with fzf
   author: lost-melody
-  stars: 41
+  stars: 42
   added_date: '2026-02-17'
 - repo: Alkindi42/tmux-bitwarden
   description: Access Bitwarden login items from tmux
@@ -111,12 +111,12 @@
 - repo: sainnhe/tmux-fzf
   description: Manage tmux environment with fzf
   author: sainnhe
-  stars: 1511
+  stars: 1513
   added_date: '2026-02-17'
 - repo: alexwforsythe/tmux-which-key
   description: Customizable popup menu for keybinding discovery
   author: alexwforsythe
-  stars: 325
+  stars: 326
   added_date: '2026-02-17'
 - repo: lloydbond/tmux-floating-terminal
   description: Popup floating terminal window
@@ -131,7 +131,7 @@
 - repo: kiyoon/treemux
   description: Nvim-Tree file explorer sidebar
   author: kiyoon
-  stars: 206
+  stars: 207
   added_date: '2026-02-17'
 - repo: gcla/tmux-wormhole
   description: Download files with magic wormhole
@@ -146,7 +146,7 @@
 - repo: navahas/tmux-grimoire
   description: Customizable floating shells for quick actions
   author: navahas
-  stars: 114
+  stars: 113
   added_date: '2026-02-17'
 - repo: laktak/tome
   description: Interactive script playbooks for the terminal
@@ -161,7 +161,7 @@
 - repo: YlanAllouche/tmux-task-monitor
   description: Session-grouped process monitor popup TUI
   author: YlanAllouche
-  stars: 34
+  stars: 35
   added_date: '2026-02-19'
 - repo: dianoga-theory/tmux-poltergeist
   description: Insert text into terminal from paste buffers

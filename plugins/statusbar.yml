@@ -26,7 +26,7 @@
 - repo: arl/gitmux
   description: Show Git status in the status bar
   author: arl
-  stars: 795
+  stars: 796
   added_date: '2026-02-17'
 - repo: MunifTanjim/tmux-mode-indicator
   description: Display current active Tmux mode
@@ -61,7 +61,7 @@
 - repo: joshmedeski/tmux-nerd-font-window-name
   description: Nerd Font icons for window names
   author: joshmedeski
-  stars: 226
+  stars: 227
   added_date: '2026-02-17'
 - repo: alexanderjeurissen/tmux-world-clock
   description: Display multiple timezone clocks
@@ -76,7 +76,7 @@
 - repo: erikw/tmux-powerline
   description: Dynamic powerline-style status bar segments
   author: erikw
-  stars: 3840
+  stars: 3841
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-net-speed
   description: Upload and download speed monitor
@@ -91,7 +91,7 @@
 - repo: anghootys/tmux-ip-address
   description: Show public IP address in status bar
   author: anghootys
-  stars: 21
+  stars: 22
   added_date: '2026-02-17'
 - repo: robhurring/tmux-uptime
   description: Display system uptime in status line
@@ -121,7 +121,7 @@
 - repo: fabioluciano/tmux-powerkit
   description: Ultimate status bar framework with many widgets
   author: fabioluciano
-  stars: 610
+  stars: 611
   added_date: '2026-02-17'
 - repo: barlevalon/tmux-nowplaying
   description: Display macOS system-wide Now Playing info
@@ -136,7 +136,7 @@
 - repo: jtmcginty/tmux-session-dots
   description: Visual session indicator showing all sessions as dots
   author: jtmcginty
-  stars: 29
+  stars: 30
   added_date: '2026-02-19'
 - repo: YousefHadder/tmux-speedtest
   description: Run internet speed tests and display results in the status bar
