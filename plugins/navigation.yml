@@ -99,3 +99,6 @@
   author: AndreVicencio
   stars: 9
   added_date: "2026-07-24"
+- repo: illegalstudio/tmux-binder
+  description: Shared sidebar for tmux sessions, windows, and panes, with live navigation previews and coding agent activity.
+  author: illegalstudio
