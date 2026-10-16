@@ -6,12 +6,12 @@
 - repo: christoomey/vim-tmux-navigator
   description: Seamless navigation between Vim and tmux
   author: christoomey
-  stars: 6304
+  stars: 6309
   added_date: '2026-02-17'
 - repo: Morantron/tmux-fingers
   description: Vimium-like copy and paste hints
   author: Morantron
-  stars: 1480
+  stars: 1481
   added_date: '2026-02-17'
 - repo: fcsonline/tmux-thumbs
   description: Fast copy and paste with Rust-powered hints
@@ -61,7 +61,7 @@
 - repo: alberti42/tmux-fzf-links
   description: Open any type of link with fzf
   author: alberti42
-  stars: 64
+  stars: 63
   added_date: '2026-02-17'
 - repo: kristopolous/tmux-gentrify
   description: Cut and paste panes between windows
@@ -102,3 +102,5 @@
 - repo: illegalstudio/tmux-binder
   description: Shared sidebar for tmux sessions, windows, and panes, with live navigation previews and coding agent activity.
   author: illegalstudio
+  stars: 2
+  added_date: "2026-10-16"
