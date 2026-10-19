@@ -1,12 +1,12 @@
 - repo: tmux-plugins/tmux-sensible
   description: A set of tmux options that should be acceptable to everyone
   author: tmux-plugins
-  stars: 2230
+  stars: 2229
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-yank
   description: Tmux plugin for copying to system clipboard
   author: tmux-plugins
-  stars: 3123
+  stars: 3122
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-copycat
   description: Enhanced tmux search with regex support
@@ -36,7 +36,7 @@
 - repo: laktak/extrakto
   description: Clipboard copy and fzf completions from output
   author: laktak
-  stars: 1150
+  stars: 1151
   added_date: '2026-02-17'
 - repo: NHDaly/tmux-better-mouse-mode
   description: Better mouse scroll and click configuration
@@ -51,7 +51,7 @@
 - repo: jaclu/tmux-menus
   description: Popup menus for environment management
   author: jaclu
-  stars: 543
+  stars: 542
   added_date: '2026-02-17'
 - repo: jabirali/tmux-tilish
   description: Tiling window manager features inspired by i3
@@ -111,7 +111,7 @@
 - repo: sainnhe/tmux-fzf
   description: Manage tmux environment with fzf
   author: sainnhe
-  stars: 1515
+  stars: 1518
   added_date: '2026-02-17'
 - repo: alexwforsythe/tmux-which-key
   description: Customizable popup menu for keybinding discovery
@@ -141,7 +141,7 @@
 - repo: noscript/tmux-mighty-scroll
   description: Seamless terminal mouse scroll
   author: noscript
-  stars: 114
+  stars: 113
   added_date: '2026-02-17'
 - repo: navahas/tmux-grimoire
   description: Customizable floating shells for quick actions
@@ -172,7 +172,7 @@
   description: Hold the Alt key as your tmux prefix
   author: eduardofuncao
   added_date: '2026-04-11'
-  stars: 8
+  stars: 9
 - repo: codedogapp/tmux-send-all
   description: Send a command to all panes in a tmux window
   author: codedogapp

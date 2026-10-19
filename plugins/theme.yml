@@ -21,7 +21,7 @@
 - repo: egel/tmux-gruvbox
   description: Light and dark gruvbox color scheme
   author: egel
-  stars: 697
+  stars: 698
   added_date: '2026-02-17'
 - repo: o0th/tmux-nova
   description: Fully customizable theme system for Tmux
@@ -41,7 +41,7 @@
 - repo: janoamaral/tokyo-night-tmux
   description: Tokyo Night color scheme for Tmux
   author: janoamaral
-  stars: 578
+  stars: 579
   added_date: '2026-02-17'
 - repo: Nybkox/tmux-ukiyo
   description: Dark color scheme inspired by Hokusai artwork
@@ -56,17 +56,17 @@
 - repo: 2KAbhishek/tmux2k
   description: Customizable powerline status bar framework
   author: 2KAbhishek
-  stars: 473
+  stars: 475
   added_date: '2026-02-17'
 - repo: semi710/minimal-tmux-status
   description: Minimal and clean status bar theme
   author: semi710
-  stars: 274
+  stars: 275
   added_date: '2026-02-17'
 - repo: erikw/tmux-dark-notify
   description: Auto-switch dark and light mode on macOS
   author: erikw
-  stars: 100
+  stars: 101
   added_date: '2026-02-17'
 - repo: ivnvxd/tmux-snazzy
   description: Elegant theme with bright colors
@@ -91,7 +91,7 @@
 - repo: vaaleyard/tmux-dotbar
   description: Simple and minimalist dot-style status bar theme
   author: vaaleyard
-  stars: 300
+  stars: 301
   added_date: '2026-02-17'
 - repo: thekylehuang/cole-tmux
   description: Stationery-inspired minimal theme with vintage earth tones
@@ -112,4 +112,4 @@
   description: Collection of beautiful minimal themes with multiple color schemes
   author: pavlemmm
   added_date: '2026-04-11'
-  stars: 5
+  stars: 6
