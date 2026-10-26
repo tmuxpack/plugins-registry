@@ -1,17 +1,17 @@
 - repo: catppuccin/tmux
   description: Soothing pastel theme for Tmux
   author: catppuccin
-  stars: 3199
+  stars: 3203
   added_date: '2026-02-17'
 - repo: dracula/tmux
   description: Dark theme for Tmux
   author: dracula
-  stars: 858
+  stars: 857
   added_date: '2026-02-17'
 - repo: nordtheme/tmux
   description: Arctic north-bluish clean color theme
   author: nordtheme
-  stars: 1205
+  stars: 1206
   added_date: '2026-02-17'
 - repo: rose-pine/tmux
   description: Soho vibes aesthetic theme for Tmux
@@ -21,7 +21,7 @@
 - repo: egel/tmux-gruvbox
   description: Light and dark gruvbox color scheme
   author: egel
-  stars: 698
+  stars: 700
   added_date: '2026-02-17'
 - repo: o0th/tmux-nova
   description: Fully customizable theme system for Tmux
@@ -31,7 +31,7 @@
 - repo: wfxr/tmux-power
   description: Eight powerline-style theme variants
   author: wfxr
-  stars: 704
+  stars: 705
   added_date: '2026-02-17'
 - repo: jimeh/tmux-themepack
   description: Collection of various themes for Tmux
@@ -41,22 +41,22 @@
 - repo: janoamaral/tokyo-night-tmux
   description: Tokyo Night color scheme for Tmux
   author: janoamaral
-  stars: 579
+  stars: 577
   added_date: '2026-02-17'
 - repo: Nybkox/tmux-ukiyo
   description: Dark color scheme inspired by Hokusai artwork
   author: Nybkox
-  stars: 145
+  stars: 146
   added_date: '2026-02-17'
 - repo: seebi/tmux-colors-solarized
   description: Solarized color implementation for Tmux
   author: seebi
-  stars: 1102
+  stars: 1103
   added_date: '2026-02-17'
 - repo: 2KAbhishek/tmux2k
   description: Customizable powerline status bar framework
   author: 2KAbhishek
-  stars: 475
+  stars: 476
   added_date: '2026-02-17'
 - repo: semi710/minimal-tmux-status
   description: Minimal and clean status bar theme
@@ -101,7 +101,7 @@
 - repo: tarquibrian/vanzi
   description: Clean and minimalist tmux theme
   author: tarquibrian
-  stars: 9
+  stars: 10
   added_date: '2026-02-19'
 - repo: binoymanoj/tmux-minimal-theme
   description: Clean minimal customizable theme with built-in system monitoring

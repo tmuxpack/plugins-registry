@@ -1,12 +1,12 @@
 - repo: tmux-plugins/tmux-pain-control
   description: Standard pane key-bindings for tmux
   author: tmux-plugins
-  stars: 869
+  stars: 870
   added_date: '2026-02-17'
 - repo: christoomey/vim-tmux-navigator
   description: Seamless navigation between Vim and tmux
   author: christoomey
-  stars: 6310
+  stars: 6314
   added_date: '2026-02-17'
 - repo: Morantron/tmux-fingers
   description: Vimium-like copy and paste hints
@@ -21,17 +21,17 @@
 - repo: schasse/tmux-jump
   description: Vimium and Easymotion-like navigation
   author: schasse
-  stars: 484
+  stars: 485
   added_date: '2026-02-17'
 - repo: wfxr/tmux-fzf-url
   description: Quick URL opening with fzf
   author: wfxr
-  stars: 737
+  stars: 738
   added_date: '2026-02-17'
 - repo: roosta/tmux-fuzzback
   description: Search scrollback buffer with fzf
   author: roosta
-  stars: 190
+  stars: 189
   added_date: '2026-02-17'
 - repo: IngoMeyer441/tmux-easy-motion
   description: Vim-easymotion-like pane navigation
@@ -46,7 +46,7 @@
 - repo: greymd/tmux-xpanes
   description: Terminal divider and pane utility
   author: greymd
-  stars: 2114
+  stars: 2111
   added_date: '2026-02-17'
 - repo: jaclu/tmux-mouse-swipe
   description: Switch window or session with right-click swipe
@@ -61,12 +61,12 @@
 - repo: alberti42/tmux-fzf-links
   description: Open any type of link with fzf
   author: alberti42
-  stars: 64
+  stars: 66
   added_date: '2026-02-17'
 - repo: kristopolous/tmux-gentrify
   description: Cut and paste panes between windows
   author: kristopolous
-  stars: 16
+  stars: 17
   added_date: '2026-02-17'
 - repo: artemave/tmux_super_fingers
   description: Open file links from terminal in Vim
@@ -97,7 +97,7 @@
 - repo: AndreVicencio/tmux-flash
   description: Search visible copy-mode text and jump to labeled matches
   author: AndreVicencio
-  stars: 9
+  stars: 10
   added_date: "2026-07-24"
 - repo: illegalstudio/tmux-binder
   description: Shared sidebar for tmux sessions, windows, and panes, with live navigation previews and coding agent activity.
