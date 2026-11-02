@@ -1,12 +1,12 @@
 - repo: tmux-plugins/tmux-sensible
   description: A set of tmux options that should be acceptable to everyone
   author: tmux-plugins
-  stars: 2234
+  stars: 2235
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-yank
   description: Tmux plugin for copying to system clipboard
   author: tmux-plugins
-  stars: 3126
+  stars: 3123
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-copycat
   description: Enhanced tmux search with regex support
@@ -16,7 +16,7 @@
 - repo: tmux-plugins/tmux-open
   description: Open highlighted files and URLs from copy mode
   author: tmux-plugins
-  stars: 742
+  stars: 743
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-logging
   description: Logging and screen capturing utilities
@@ -26,22 +26,22 @@
 - repo: tmux-plugins/tmux-sidebar
   description: Directory tree sidebar for navigation
   author: tmux-plugins
-  stars: 664
+  stars: 665
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-fpp
   description: Quick opening of file paths in editor
   author: tmux-plugins
-  stars: 323
+  stars: 322
   added_date: '2026-02-17'
 - repo: laktak/extrakto
   description: Clipboard copy and fzf completions from output
   author: laktak
-  stars: 1152
+  stars: 1157
   added_date: '2026-02-17'
 - repo: NHDaly/tmux-better-mouse-mode
   description: Better mouse scroll and click configuration
   author: NHDaly
-  stars: 987
+  stars: 986
   added_date: '2026-02-17'
 - repo: b0o/tmux-autoreload
   description: Automatically reload config file on change
@@ -51,7 +51,7 @@
 - repo: jaclu/tmux-menus
   description: Popup menus for environment management
   author: jaclu
-  stars: 543
+  stars: 544
   added_date: '2026-02-17'
 - repo: jabirali/tmux-tilish
   description: Tiling window manager features inspired by i3
@@ -71,7 +71,7 @@
 - repo: whame/tmux-modal
   description: Modal mode for executing complex commands
   author: whame
-  stars: 221
+  stars: 219
   added_date: '2026-02-17'
 - repo: CrispyConductor/tmux-copy-toolkit
   description: Multi-utility copy and paste toolkit
@@ -91,7 +91,7 @@
 - repo: yardnsm/tmux-1password
   description: Access 1Password items from tmux
   author: yardnsm
-  stars: 278
+  stars: 277
   added_date: '2026-02-17'
 - repo: azorng/tmux-smooth-scroll
   description: Smooth scrolling in copy mode
@@ -111,12 +111,12 @@
 - repo: sainnhe/tmux-fzf
   description: Manage tmux environment with fzf
   author: sainnhe
-  stars: 1519
+  stars: 1521
   added_date: '2026-02-17'
 - repo: alexwforsythe/tmux-which-key
   description: Customizable popup menu for keybinding discovery
   author: alexwforsythe
-  stars: 327
+  stars: 328
   added_date: '2026-02-17'
 - repo: lloydbond/tmux-floating-terminal
   description: Popup floating terminal window
@@ -136,7 +136,7 @@
 - repo: gcla/tmux-wormhole
   description: Download files with magic wormhole
   author: gcla
-  stars: 122
+  stars: 123
   added_date: '2026-02-17'
 - repo: noscript/tmux-mighty-scroll
   description: Seamless terminal mouse scroll
@@ -146,7 +146,7 @@
 - repo: navahas/tmux-grimoire
   description: Customizable floating shells for quick actions
   author: navahas
-  stars: 113
+  stars: 114
   added_date: '2026-02-17'
 - repo: laktak/tome
   description: Interactive script playbooks for the terminal
@@ -206,7 +206,7 @@
 - repo: datamadsen/nunchux
   description: Smart tmux app launcher with fzf, justfile, and npm integration
   author: datamadsen
-  stars: 65
+  stars: 66
   added_date: "2026-05-19"
 - repo: waelmahrous/wormhole
   description: Send files between tmux panes by marking destinations as wormholes

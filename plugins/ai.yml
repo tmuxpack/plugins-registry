@@ -22,16 +22,16 @@
   description: Show Claude and Codex API usage in the status bar
   author: artischocki
   added_date: '2026-04-11'
-  stars: 14
+  stars: 13
 - repo: Ataraxy-Labs/opensessions
   description: tmux sidebar for coding agents Amp, Claude Code, Codex, and OpenCode with per-thread markers
   author: Ataraxy-Labs
-  stars: 1234
+  stars: 1235
   added_date: "2026-05-19"
 - repo: snirt/agenmux
   description: Monitor AI coding agents in tmux panes with sidebar and status-line views
   author: snirt
-  stars: 60
+  stars: 62
   added_date: "2026-07-24"
 - repo: vieitesss/agent-radar
   description: List and switch between coding agent panes with status and completion notifications
