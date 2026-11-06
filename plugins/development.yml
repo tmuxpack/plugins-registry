@@ -38,8 +38,8 @@
   author: NigelGreenway
   stars: 9
   added_date: '2026-02-17'
-- repo: gbrennon/tmux-worktrees
-  description: git worktrees management plugin for tmux
+- repo: gbrennon/senkai
+  description: A version-control and terminal-multiplexing workspace manager, starting with Git and tmux and expanding to Mercurial and screen
   author: gbrennon
-  stars: 1
+  stars: 2
   added_date: "2026-06-28"
