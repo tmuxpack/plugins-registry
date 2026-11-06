@@ -10,14 +10,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 | Plugin | Description | Stars |
 |--------|-------------|-------|
-| snirt/[**agenmux**](https://github.com/snirt/agenmux) | Monitor AI coding agents in tmux panes with sidebar and status-line views | 62 |
+| snirt/[**agenmux**](https://github.com/snirt/agenmux) | Monitor AI coding agents in tmux panes with sidebar and status-line views | 63 |
 | vieitesss/[**agent-radar**](https://github.com/vieitesss/agent-radar) | List and switch between coding agent panes with status and completion notifications | 33 |
 | DS-argus/[**agent-transcript**](https://github.com/DS-argus/agent-transcript) | Read AI agent conversations in your favorite Markdown TUI, right inside tmux | 0 |
 | artischocki/[**agent-usage-tmux**](https://github.com/artischocki/agent-usage-tmux) | Show Claude and Codex API usage in the status bar | 13 |
-| Ataraxy-Labs/[**opensessions**](https://github.com/Ataraxy-Labs/opensessions) | tmux sidebar for coding agents Amp, Claude Code, Codex, and OpenCode with per-thread markers | 1235 |
-| accessd/[**tmux-agent-indicator**](https://github.com/accessd/tmux-agent-indicator) | Visual feedback for AI agent states in pane borders and status bar | 99 |
+| Ataraxy-Labs/[**opensessions**](https://github.com/Ataraxy-Labs/opensessions) | tmux sidebar for coding agents Amp, Claude Code, Codex, and OpenCode with per-thread markers | 1237 |
+| accessd/[**tmux-agent-indicator**](https://github.com/accessd/tmux-agent-indicator) | Visual feedback for AI agent states in pane borders and status bar | 100 |
 | cburmeister/[**tmux-agent-state**](https://github.com/cburmeister/tmux-agent-state) | Agent state on your tmux window tabs. For people who already live in tmux and run coding agents in it. | 2 |
-| samleeney/[**tmux-agent-status**](https://github.com/samleeney/tmux-agent-status) | Show which tmux sessions have AI agents working or idle | 290 |
+| samleeney/[**tmux-agent-status**](https://github.com/samleeney/tmux-agent-status) | Show which tmux sessions have AI agents working or idle | 292 |
 | smilovanovic/[**tmux-claude**](https://github.com/smilovanovic/tmux-claude) | Claude Code session status display and picker | 12 |
 | qeesung/[**tmux-scout**](https://github.com/qeesung/tmux-scout) | Monitor and navigate Claude Code and Codex sessions | 30 |
 
@@ -26,6 +26,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 | Plugin | Description | Stars |
 |--------|-------------|-------|
 | GianlucaP106/[**gotmux**](https://github.com/GianlucaP106/gotmux) | Golang library for tmux interaction | 47 |
+| gbrennon/[**senkai**](https://github.com/gbrennon/senkai) | A version-control and terminal-multiplexing workspace manager, starting with Git and tmux and expanding to Mercurial and screen | 2 |
 | naqerl/[**tmux-cargo**](https://github.com/naqerl/tmux-cargo) | Run Cargo commands from tmux | 7 |
 | alexekdahl/[**tmux-compile**](https://github.com/alexekdahl/tmux-compile) | Run compile commands with automatic pane | 23 |
 | tmux-plugins/[**tmux-example-plugin**](https://github.com/tmux-plugins/tmux-example-plugin) | Example plugin template for developers | 49 |
@@ -33,39 +34,38 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 | AngryMorrocoy/[**tmux-neolazygit**](https://github.com/AngryMorrocoy/tmux-neolazygit) | Lazygit integration with tmux and neovim | 47 |
 | tmux-plugins/[**tmux-test**](https://github.com/tmux-plugins/tmux-test) | Isolated testing framework for tmux plugins | 19 |
 | KakkoiDev/[**tmux-worktree**](https://github.com/KakkoiDev/tmux-worktree) | Git worktree management with native tmux menus | 25 |
-| gbrennon/[**tmux-worktrees**](https://github.com/gbrennon/tmux-worktrees) | git worktrees management plugin for tmux | 1 |
 
 ## Navigation
 
 | Plugin | Description | Stars |
 |--------|-------------|-------|
 | Kristijan/[**flash-copy.tmux**](https://github.com/Kristijan/flash-copy.tmux) | Flash.nvim-style word jumping and copying | 50 |
-| illegalstudio/[**tmux-binder**](https://github.com/illegalstudio/tmux-binder) | Shared sidebar for tmux sessions, windows, and panes, with live navigation previews and coding agent activity. | 2 |
+| illegalstudio/[**tmux-binder**](https://github.com/illegalstudio/tmux-binder) | Shared sidebar for tmux sessions, windows, and panes, with live navigation previews and coding agent activity. | 3 |
 | chris-paganon/[**tmux-cdls**](https://codeberg.org/chris-paganon/tmux-cdls) | displays the content of the current directory in a pane with live updates | 0 |
 | IngoMeyer441/[**tmux-easy-motion**](https://github.com/IngoMeyer441/tmux-easy-motion) | Vim-easymotion-like pane navigation | 110 |
 | abhinav/[**tmux-fastcopy**](https://github.com/abhinav/tmux-fastcopy) | Easymotion-style text copying | 99 |
-| Morantron/[**tmux-fingers**](https://github.com/Morantron/tmux-fingers) | Vimium-like copy and paste hints | 1484 |
+| Morantron/[**tmux-fingers**](https://github.com/Morantron/tmux-fingers) | Vimium-like copy and paste hints | 1485 |
 | AndreVicencio/[**tmux-flash**](https://github.com/AndreVicencio/tmux-flash) | Search visible copy-mode text and jump to labeled matches | 10 |
 | roosta/[**tmux-fuzzback**](https://github.com/roosta/tmux-fuzzback) | Search scrollback buffer with fzf | 189 |
 | alberti42/[**tmux-fzf-links**](https://github.com/alberti42/tmux-fzf-links) | Open any type of link with fzf | 66 |
-| wfxr/[**tmux-fzf-url**](https://github.com/wfxr/tmux-fzf-url) | Quick URL opening with fzf | 739 |
+| wfxr/[**tmux-fzf-url**](https://github.com/wfxr/tmux-fzf-url) | Quick URL opening with fzf | 740 |
 | kristopolous/[**tmux-gentrify**](https://github.com/kristopolous/tmux-gentrify) | Cut and paste panes between windows | 17 |
 | schasse/[**tmux-jump**](https://github.com/schasse/tmux-jump) | Vimium and Easymotion-like navigation | 485 |
 | jaclu/[**tmux-mouse-swipe**](https://github.com/jaclu/tmux-mouse-swipe) | Switch window or session with right-click swipe | 25 |
 | tmux-plugins/[**tmux-pain-control**](https://github.com/tmux-plugins/tmux-pain-control) | Standard pane key-bindings for tmux | 869 |
 | sandudorogan/[**tmux-pane-tree**](https://github.com/sandudorogan/tmux-pane-tree) | Interactive pane tree sidebar with Vim-style navigation | 65 |
 | jaclu/[**tmux-power-zoom**](https://github.com/jaclu/tmux-power-zoom) | Zoom pane to a separate window | 64 |
-| fcsonline/[**tmux-thumbs**](https://github.com/fcsonline/tmux-thumbs) | Fast copy and paste with Rust-powered hints | 1105 |
-| nucc/[**tmux-which-key**](https://github.com/nucc/tmux-which-key) | LazyVim-style which-key popup with nested groups and Nord theme | 36 |
-| greymd/[**tmux-xpanes**](https://github.com/greymd/tmux-xpanes) | Terminal divider and pane utility | 2113 |
+| fcsonline/[**tmux-thumbs**](https://github.com/fcsonline/tmux-thumbs) | Fast copy and paste with Rust-powered hints | 1104 |
+| nucc/[**tmux-which-key**](https://github.com/nucc/tmux-which-key) | LazyVim-style which-key popup with nested groups and Nord theme | 37 |
+| greymd/[**tmux-xpanes**](https://github.com/greymd/tmux-xpanes) | Terminal divider and pane utility | 2112 |
 | artemave/[**tmux_super_fingers**](https://github.com/artemave/tmux_super_fingers) | Open file links from terminal in Vim | 108 |
-| christoomey/[**vim-tmux-navigator**](https://github.com/christoomey/vim-tmux-navigator) | Seamless navigation between Vim and tmux | 6317 |
+| christoomey/[**vim-tmux-navigator**](https://github.com/christoomey/vim-tmux-navigator) | Seamless navigation between Vim and tmux | 6318 |
 
 ## Session
 
 | Plugin | Description | Stars |
 |--------|-------------|-------|
-| joshmedeski/[**sesh**](https://github.com/joshmedeski/sesh) | Smart terminal session manager | 2919 |
+| joshmedeski/[**sesh**](https://github.com/joshmedeski/sesh) | Smart terminal session manager | 2924 |
 | tmux-plugins/[**tmux-continuum**](https://github.com/tmux-plugins/tmux-continuum) | Continuous saving of tmux environment | 4108 |
 | clanghans/[**tmux-frost**](https://github.com/clanghans/tmux-frost) | Minimal session save and restore plugin | 8 |
 | cutbypham/[**tmux-fzf-session-switch**](https://github.com/cutbypham/tmux-fzf-session-switch) | Easy session switching with fzf | 97 |
@@ -73,10 +73,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 | bcampolo/[**tmux-lazy-restore**](https://github.com/bcampolo/tmux-lazy-restore) | Lazy session restore with deferred command execution | 46 |
 | niqodea/[**tmux-matryoshka**](https://github.com/niqodea/tmux-matryoshka) | Support for arbitrary levels of nested sessions | 76 |
 | spywhere/[**tmux-named-snapshot**](https://github.com/spywhere/tmux-named-snapshot) | Named snapshot support for tmux-resurrect | 47 |
-| tmux-plugins/[**tmux-resurrect**](https://github.com/tmux-plugins/tmux-resurrect) | Persists tmux environment across system restarts | 13124 |
-| 27medkamal/[**tmux-session-wizard**](https://github.com/27medkamal/tmux-session-wizard) | Session creation with fzf and zoxide | 266 |
+| tmux-plugins/[**tmux-resurrect**](https://github.com/tmux-plugins/tmux-resurrect) | Persists tmux environment across system restarts | 13126 |
+| 27medkamal/[**tmux-session-wizard**](https://github.com/27medkamal/tmux-session-wizard) | Session creation with fzf and zoxide | 267 |
 | tmux-plugins/[**tmux-sessionist**](https://github.com/tmux-plugins/tmux-sessionist) | Lightweight session manipulation utilities | 474 |
-| omerxx/[**tmux-sessionx**](https://github.com/omerxx/tmux-sessionx) | Session manager with zoxide and fuzzy finding | 1404 |
+| omerxx/[**tmux-sessionx**](https://github.com/omerxx/tmux-sessionx) | Session manager with zoxide and fuzzy finding | 1405 |
 | MeinardEdrei/[**tmux-spotlight**](https://github.com/MeinardEdrei/tmux-spotlight) | Fuzzy switcher for tmux panes, windows, and sessions | 30 |
 | MunifTanjim/[**tmux-suspend**](https://github.com/MunifTanjim/tmux-suspend) | Suspend local session for nested remote sessions | 181 |
 | 2KAbhishek/[**tmux-tea**](https://github.com/2KAbhishek/tmux-tea) | Session manager with previews and tmuxinator support | 85 |
@@ -109,7 +109,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 | tmux-plugins/[**tmux-online-status**](https://github.com/tmux-plugins/tmux-online-status) | Display online and offline status | 184 |
 | samoshkin/[**tmux-plugin-sysstat**](https://github.com/samoshkin/tmux-plugin-sysstat) | CPU, memory, swap, load average, and net I/O metrics | 172 |
 | olimorris/[**tmux-pomodoro-plus**](https://github.com/olimorris/tmux-pomodoro-plus) | Pomodoro timer integration | 472 |
-| fabioluciano/[**tmux-powerkit**](https://github.com/fabioluciano/tmux-powerkit) | Ultimate status bar framework with many widgets | 617 |
+| fabioluciano/[**tmux-powerkit**](https://github.com/fabioluciano/tmux-powerkit) | Ultimate status bar framework with many widgets | 618 |
 | erikw/[**tmux-powerline**](https://github.com/erikw/tmux-powerline) | Dynamic powerline-style status bar segments | 3845 |
 | tmux-plugins/[**tmux-prefix-highlight**](https://github.com/tmux-plugins/tmux-prefix-highlight) | Highlights when prefix key is pressed | 674 |
 | jtmcginty/[**tmux-session-dots**](https://github.com/jtmcginty/tmux-session-dots) | Visual session indicator showing all sessions as dots | 32 |
@@ -131,15 +131,15 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 |--------|-------------|-------|
 | thekylehuang/[**cole-tmux**](https://github.com/thekylehuang/cole-tmux) | Stationery-inspired minimal theme with vintage earth tones | 12 |
 | semi710/[**minimal-tmux-status**](https://github.com/semi710/minimal-tmux-status) | Minimal and clean status bar theme | 275 |
-| catppuccin/[**tmux**](https://github.com/catppuccin/tmux) | Soothing pastel theme for Tmux | 3213 |
-| dracula/[**tmux**](https://github.com/dracula/tmux) | Dark theme for Tmux | 856 |
-| nordtheme/[**tmux**](https://github.com/nordtheme/tmux) | Arctic north-bluish clean color theme | 1208 |
+| catppuccin/[**tmux**](https://github.com/catppuccin/tmux) | Soothing pastel theme for Tmux | 3214 |
+| dracula/[**tmux**](https://github.com/dracula/tmux) | Dark theme for Tmux | 857 |
+| nordtheme/[**tmux**](https://github.com/nordtheme/tmux) | Arctic north-bluish clean color theme | 1209 |
 | rose-pine/[**tmux**](https://github.com/rose-pine/tmux) | Soho vibes aesthetic theme for Tmux | 280 |
 | seebi/[**tmux-colors-solarized**](https://github.com/seebi/tmux-colors-solarized) | Solarized color implementation for Tmux | 1103 |
 | leighmcculloch/[**tmux-colours-superhero**](https://github.com/leighmcculloch/tmux-colours-superhero) | Superhero themed color scheme | 13 |
 | erikw/[**tmux-dark-notify**](https://github.com/erikw/tmux-dark-notify) | Auto-switch dark and light mode on macOS | 101 |
 | vaaleyard/[**tmux-dotbar**](https://github.com/vaaleyard/tmux-dotbar) | Simple and minimalist dot-style status bar theme | 302 |
-| egel/[**tmux-gruvbox**](https://github.com/egel/tmux-gruvbox) | Light and dark gruvbox color scheme | 701 |
+| egel/[**tmux-gruvbox**](https://github.com/egel/tmux-gruvbox) | Light and dark gruvbox color scheme | 702 |
 | binoymanoj/[**tmux-minimal-theme**](https://github.com/binoymanoj/tmux-minimal-theme) | Clean minimal customizable theme with built-in system monitoring | 54 |
 | pavlemmm/[**tmux-minithemes**](https://github.com/pavlemmm/tmux-minithemes) | Collection of beautiful minimal themes with multiple color schemes | 6 |
 | Wabri/[**tmux-nord-plusplus**](https://github.com/Wabri/tmux-nord-plusplus) | Nord theme with battery and pomodoro support | 12 |
@@ -147,7 +147,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 | imomaliev/[**tmux-peacock**](https://github.com/imomaliev/tmux-peacock) | Per-session color based on session name | 40 |
 | wfxr/[**tmux-power**](https://github.com/wfxr/tmux-power) | Eight powerline-style theme variants | 708 |
 | ivnvxd/[**tmux-snazzy**](https://github.com/ivnvxd/tmux-snazzy) | Elegant theme with bright colors | 28 |
-| jimeh/[**tmux-themepack**](https://github.com/jimeh/tmux-themepack) | Collection of various themes for Tmux | 1757 |
+| jimeh/[**tmux-themepack**](https://github.com/jimeh/tmux-themepack) | Collection of various themes for Tmux | 1756 |
 | Nybkox/[**tmux-ukiyo**](https://github.com/Nybkox/tmux-ukiyo) | Dark color scheme inspired by Hokusai artwork | 146 |
 | 2KAbhishek/[**tmux2k**](https://github.com/2KAbhishek/tmux2k) | Customizable powerline status bar framework | 477 |
 | janoamaral/[**tokyo-night-tmux**](https://github.com/janoamaral/tokyo-night-tmux) | Tokyo Night color scheme for Tmux | 579 |
@@ -158,7 +158,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 | Plugin | Description | Stars |
 |--------|-------------|-------|
 | eduardofuncao/[**altux**](https://github.com/eduardofuncao/altux) | Hold the Alt key as your tmux prefix | 9 |
-| laktak/[**extrakto**](https://github.com/laktak/extrakto) | Clipboard copy and fzf completions from output | 1157 |
+| laktak/[**extrakto**](https://github.com/laktak/extrakto) | Clipboard copy and fzf completions from output | 1158 |
 | datamadsen/[**nunchux**](https://github.com/datamadsen/nunchux) | Smart tmux app launcher with fzf, justfile, and npm integration | 66 |
 | yardnsm/[**tmux-1password**](https://github.com/yardnsm/tmux-1password) | Access 1Password items from tmux | 277 |
 | b0o/[**tmux-autoreload**](https://github.com/b0o/tmux-autoreload) | Automatically reload config file on change | 123 |
@@ -168,29 +168,29 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 | CrispyConductor/[**tmux-copy-toolkit**](https://github.com/CrispyConductor/tmux-copy-toolkit) | Multi-utility copy and paste toolkit | 74 |
 | tmux-plugins/[**tmux-copycat**](https://github.com/tmux-plugins/tmux-copycat) | Enhanced tmux search with regex support | 1206 |
 | tmux-plugins/[**tmux-cowboy**](https://github.com/tmux-plugins/tmux-cowboy) | Kill hanging processes quickly | 59 |
-| lloydbond/[**tmux-floating-terminal**](https://github.com/lloydbond/tmux-floating-terminal) | Popup floating terminal window | 25 |
+| lloydbond/[**tmux-floating-terminal**](https://github.com/lloydbond/tmux-floating-terminal) | Popup floating terminal window | 26 |
 | tmux-plugins/[**tmux-fpp**](https://github.com/tmux-plugins/tmux-fpp) | Quick opening of file paths in editor | 322 |
-| sainnhe/[**tmux-fzf**](https://github.com/sainnhe/tmux-fzf) | Manage tmux environment with fzf | 1521 |
+| sainnhe/[**tmux-fzf**](https://github.com/sainnhe/tmux-fzf) | Manage tmux environment with fzf | 1522 |
 | thepante/[**tmux-git-autofetch**](https://github.com/thepante/tmux-git-autofetch) | Automatically fetch git repos in current session | 22 |
 | cookiecad/[**tmux-grep**](https://github.com/cookiecad/tmux-grep) | Search across all tmux panes scrollback history with fzf | 5 |
 | navahas/[**tmux-grimoire**](https://github.com/navahas/tmux-grimoire) | Customizable floating shells for quick actions | 114 |
 | szymonwilczek/[**tmux-jot**](https://github.com/szymonwilczek/tmux-jot) | Popup note manager with per-session sticky notes that persist between toggles | 10 |
-| tmux-plugins/[**tmux-logging**](https://github.com/tmux-plugins/tmux-logging) | Logging and screen capturing utilities | 1262 |
-| jaclu/[**tmux-menus**](https://github.com/jaclu/tmux-menus) | Popup menus for environment management | 544 |
+| tmux-plugins/[**tmux-logging**](https://github.com/tmux-plugins/tmux-logging) | Logging and screen capturing utilities | 1263 |
+| jaclu/[**tmux-menus**](https://github.com/jaclu/tmux-menus) | Popup menus for environment management | 543 |
 | noscript/[**tmux-mighty-scroll**](https://github.com/noscript/tmux-mighty-scroll) | Seamless terminal mouse scroll | 113 |
 | whame/[**tmux-modal**](https://github.com/whame/tmux-modal) | Modal mode for executing complex commands | 219 |
-| rickstaa/[**tmux-notify**](https://github.com/rickstaa/tmux-notify) | Notify when long-running processes finish | 283 |
-| tmux-plugins/[**tmux-open**](https://github.com/tmux-plugins/tmux-open) | Open highlighted files and URLs from copy mode | 743 |
-| eduwass/[**tmux-palette**](https://github.com/eduwass/tmux-palette) | Raycast-style fast and scriptable command palette for tmux | 412 |
+| rickstaa/[**tmux-notify**](https://github.com/rickstaa/tmux-notify) | Notify when long-running processes finish | 284 |
+| tmux-plugins/[**tmux-open**](https://github.com/tmux-plugins/tmux-open) | Open highlighted files and URLs from copy mode | 744 |
+| eduwass/[**tmux-palette**](https://github.com/eduwass/tmux-palette) | Raycast-style fast and scriptable command palette for tmux | 411 |
 | graemedavidson/[**tmux-pane-focus**](https://github.com/graemedavidson/tmux-pane-focus) | Auto-resizing focused pane splits | 30 |
 | dianoga-theory/[**tmux-poltergeist**](https://github.com/dianoga-theory/tmux-poltergeist) | Insert text into terminal from paste buffers | 5 |
 | codedogapp/[**tmux-send-all**](https://github.com/codedogapp/tmux-send-all) | Send a command to all panes in a tmux window | 1 |
 | tmux-plugins/[**tmux-sensible**](https://github.com/tmux-plugins/tmux-sensible) | A set of tmux options that should be acceptable to everyone | 2235 |
 | tmux-plugins/[**tmux-sidebar**](https://github.com/tmux-plugins/tmux-sidebar) | Directory tree sidebar for navigation | 665 |
 | Yahddyyp/[**tmux-simple-renamers**](https://github.com/Yahddyyp/tmux-simple-renamers) | Simple window and session renamer integrated with sesh and fzf | 8 |
-| azorng/[**tmux-smooth-scroll**](https://github.com/azorng/tmux-smooth-scroll) | Smooth scrolling in copy mode | 81 |
+| azorng/[**tmux-smooth-scroll**](https://github.com/azorng/tmux-smooth-scroll) | Smooth scrolling in copy mode | 80 |
 | BatsShadow/[**tmux-superclick**](https://github.com/BatsShadow/tmux-superclick) | Improved mouse-driven text selection for tmux | 10 |
-| YlanAllouche/[**tmux-task-monitor**](https://github.com/YlanAllouche/tmux-task-monitor) | Session-grouped process monitor popup TUI | 35 |
+| YlanAllouche/[**tmux-task-monitor**](https://github.com/YlanAllouche/tmux-task-monitor) | Session-grouped process monitor popup TUI | 34 |
 | jabirali/[**tmux-tilish**](https://github.com/jabirali/tmux-tilish) | Tiling window manager features inspired by i3 | 494 |
 | 2KAbhishek/[**tmux-tilit**](https://github.com/2KAbhishek/tmux-tilit) | Tiling window manager keybindings | 87 |
 | loichyan/[**tmux-toggle-popup**](https://github.com/loichyan/tmux-toggle-popup) | Create toggleable popup windows | 47 |

@@ -1,17 +1,17 @@
 - repo: catppuccin/tmux
   description: Soothing pastel theme for Tmux
   author: catppuccin
-  stars: 3213
+  stars: 3214
   added_date: '2026-02-17'
 - repo: dracula/tmux
   description: Dark theme for Tmux
   author: dracula
-  stars: 856
+  stars: 857
   added_date: '2026-02-17'
 - repo: nordtheme/tmux
   description: Arctic north-bluish clean color theme
   author: nordtheme
-  stars: 1208
+  stars: 1209
   added_date: '2026-02-17'
 - repo: rose-pine/tmux
   description: Soho vibes aesthetic theme for Tmux
@@ -21,7 +21,7 @@
 - repo: egel/tmux-gruvbox
   description: Light and dark gruvbox color scheme
   author: egel
-  stars: 701
+  stars: 702
   added_date: '2026-02-17'
 - repo: o0th/tmux-nova
   description: Fully customizable theme system for Tmux
@@ -36,7 +36,7 @@
 - repo: jimeh/tmux-themepack
   description: Collection of various themes for Tmux
   author: jimeh
-  stars: 1757
+  stars: 1756
   added_date: '2026-02-17'
 - repo: janoamaral/tokyo-night-tmux
   description: Tokyo Night color scheme for Tmux

@@ -16,12 +16,12 @@
 - repo: tmux-plugins/tmux-open
   description: Open highlighted files and URLs from copy mode
   author: tmux-plugins
-  stars: 743
+  stars: 744
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-logging
   description: Logging and screen capturing utilities
   author: tmux-plugins
-  stars: 1262
+  stars: 1263
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-sidebar
   description: Directory tree sidebar for navigation
@@ -36,7 +36,7 @@
 - repo: laktak/extrakto
   description: Clipboard copy and fzf completions from output
   author: laktak
-  stars: 1157
+  stars: 1158
   added_date: '2026-02-17'
 - repo: NHDaly/tmux-better-mouse-mode
   description: Better mouse scroll and click configuration
@@ -51,7 +51,7 @@
 - repo: jaclu/tmux-menus
   description: Popup menus for environment management
   author: jaclu
-  stars: 544
+  stars: 543
   added_date: '2026-02-17'
 - repo: jabirali/tmux-tilish
   description: Tiling window manager features inspired by i3
@@ -66,7 +66,7 @@
 - repo: rickstaa/tmux-notify
   description: Notify when long-running processes finish
   author: rickstaa
-  stars: 283
+  stars: 284
   added_date: '2026-02-17'
 - repo: whame/tmux-modal
   description: Modal mode for executing complex commands
@@ -96,7 +96,7 @@
 - repo: azorng/tmux-smooth-scroll
   description: Smooth scrolling in copy mode
   author: azorng
-  stars: 81
+  stars: 80
   added_date: '2026-02-17'
 - repo: graemedavidson/tmux-pane-focus
   description: Auto-resizing focused pane splits
@@ -111,7 +111,7 @@
 - repo: sainnhe/tmux-fzf
   description: Manage tmux environment with fzf
   author: sainnhe
-  stars: 1521
+  stars: 1522
   added_date: '2026-02-17'
 - repo: alexwforsythe/tmux-which-key
   description: Customizable popup menu for keybinding discovery
@@ -121,7 +121,7 @@
 - repo: lloydbond/tmux-floating-terminal
   description: Popup floating terminal window
   author: lloydbond
-  stars: 25
+  stars: 26
   added_date: '2026-02-17'
 - repo: thepante/tmux-git-autofetch
   description: Automatically fetch git repos in current session
@@ -161,7 +161,7 @@
 - repo: YlanAllouche/tmux-task-monitor
   description: Session-grouped process monitor popup TUI
   author: YlanAllouche
-  stars: 35
+  stars: 34
   added_date: '2026-02-19'
 - repo: dianoga-theory/tmux-poltergeist
   description: Insert text into terminal from paste buffers
@@ -196,7 +196,7 @@
 - repo: eduwass/tmux-palette
   description: Raycast-style fast and scriptable command palette for tmux
   author: eduwass
-  stars: 412
+  stars: 411
   added_date: "2026-05-19"
 - repo: Yahddyyp/tmux-simple-renamers
   description: Simple window and session renamer integrated with sesh and fzf
