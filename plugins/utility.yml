@@ -1,7 +1,7 @@
 - repo: tmux-plugins/tmux-sensible
   description: A set of tmux options that should be acceptable to everyone
   author: tmux-plugins
-  stars: 2235
+  stars: 2237
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-yank
   description: Tmux plugin for copying to system clipboard
@@ -11,7 +11,7 @@
 - repo: tmux-plugins/tmux-copycat
   description: Enhanced tmux search with regex support
   author: tmux-plugins
-  stars: 1206
+  stars: 1207
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-open
   description: Open highlighted files and URLs from copy mode
@@ -51,7 +51,7 @@
 - repo: jaclu/tmux-menus
   description: Popup menus for environment management
   author: jaclu
-  stars: 543
+  stars: 544
   added_date: '2026-02-17'
 - repo: jabirali/tmux-tilish
   description: Tiling window manager features inspired by i3
@@ -111,7 +111,7 @@
 - repo: sainnhe/tmux-fzf
   description: Manage tmux environment with fzf
   author: sainnhe
-  stars: 1522
+  stars: 1523
   added_date: '2026-02-17'
 - repo: alexwforsythe/tmux-which-key
   description: Customizable popup menu for keybinding discovery
