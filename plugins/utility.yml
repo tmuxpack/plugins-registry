@@ -1,12 +1,12 @@
 - repo: tmux-plugins/tmux-sensible
   description: A set of tmux options that should be acceptable to everyone
   author: tmux-plugins
-  stars: 2237
+  stars: 2238
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-yank
   description: Tmux plugin for copying to system clipboard
   author: tmux-plugins
-  stars: 3123
+  stars: 3124
   added_date: '2026-02-17'
 - repo: tmux-plugins/tmux-copycat
   description: Enhanced tmux search with regex support
@@ -41,7 +41,7 @@
 - repo: NHDaly/tmux-better-mouse-mode
   description: Better mouse scroll and click configuration
   author: NHDaly
-  stars: 986
+  stars: 989
   added_date: '2026-02-17'
 - repo: b0o/tmux-autoreload
   description: Automatically reload config file on change
@@ -56,7 +56,7 @@
 - repo: jabirali/tmux-tilish
   description: Tiling window manager features inspired by i3
   author: jabirali
-  stars: 494
+  stars: 493
   added_date: '2026-02-17'
 - repo: 2KAbhishek/tmux-tilit
   description: Tiling window manager keybindings
@@ -116,7 +116,7 @@
 - repo: alexwforsythe/tmux-which-key
   description: Customizable popup menu for keybinding discovery
   author: alexwforsythe
-  stars: 328
+  stars: 330
   added_date: '2026-02-17'
 - repo: lloydbond/tmux-floating-terminal
   description: Popup floating terminal window
@@ -136,12 +136,12 @@
 - repo: gcla/tmux-wormhole
   description: Download files with magic wormhole
   author: gcla
-  stars: 123
+  stars: 124
   added_date: '2026-02-17'
 - repo: noscript/tmux-mighty-scroll
   description: Seamless terminal mouse scroll
   author: noscript
-  stars: 113
+  stars: 114
   added_date: '2026-02-17'
 - repo: navahas/tmux-grimoire
   description: Customizable floating shells for quick actions
@@ -151,7 +151,7 @@
 - repo: laktak/tome
   description: Interactive script playbooks for the terminal
   author: laktak
-  stars: 177
+  stars: 178
   added_date: '2026-02-17'
 - repo: loichyan/tmux-toggle-popup
   description: Create toggleable popup windows
@@ -196,7 +196,7 @@
 - repo: eduwass/tmux-palette
   description: Raycast-style fast and scriptable command palette for tmux
   author: eduwass
-  stars: 411
+  stars: 413
   added_date: "2026-05-19"
 - repo: Yahddyyp/tmux-simple-renamers
   description: Simple window and session renamer integrated with sesh and fzf

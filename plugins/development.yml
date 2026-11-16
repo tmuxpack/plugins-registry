@@ -26,7 +26,7 @@
 - repo: AngryMorrocoy/tmux-neolazygit
   description: Lazygit integration with tmux and neovim
   author: AngryMorrocoy
-  stars: 47
+  stars: 48
   added_date: '2026-02-17'
 - repo: KakkoiDev/tmux-worktree
   description: Git worktree management with native tmux menus
@@ -41,5 +41,5 @@
 - repo: gbrennon/senkai
   description: A version-control and terminal-multiplexing workspace manager, starting with Git and tmux and expanding to Mercurial and screen
   author: gbrennon
-  stars: 2
+  stars: 3
   added_date: "2026-06-28"
