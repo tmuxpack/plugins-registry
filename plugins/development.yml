@@ -36,10 +36,10 @@
 - repo: NigelGreenway/tmux-git-worktree
   description: Create and switch between git worktrees in tmux
   author: NigelGreenway
-  stars: 9
+  stars: 10
   added_date: '2026-02-17'
 - repo: gbrennon/senkai
   description: A version-control and terminal-multiplexing workspace manager, starting with Git and tmux and expanding to Mercurial and screen
   author: gbrennon
-  stars: 3
+  stars: 11
   added_date: "2026-06-28"
